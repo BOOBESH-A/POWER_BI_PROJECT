@@ -1,0 +1,13 @@
+# Power BI temporary, backup & lock files
+*.tmp
+*.temp
+*AutoRecovery*
+~$*
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Windows temporary files
+*.lnk
